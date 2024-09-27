@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>day24-1</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+
+        <!-- Bootstrap CSS v5.2.1 -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+            crossorigin="anonymous"
+        />
+        <style>
+            .diloo {
+                background-color: rgb(73, 208, 205);
+                width: 300px;
+                height: 100px;
+                padding: 15px;
+                box-shadow: 10px 10px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              }
+            
+        </style>
+    </head>
+
+    <body>
+        <header>
+            <nav class="navbar navbar-expand-lg">
+                <div class="container-fluid bg-success">
+                    <img src="dhoni.png" alt="">
+                    <img src="dddddnnn.jpeg" alt="">
+                    <img src="images (1).jpeg" alt="">
+    
+                    <ul class="navbar-nav">
+                        <li class="nav-item"></li>
+                        <a class="nav-link " href="day24.html">
+                            HOME
+                        </a></li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="day24-1.html">
+                                About
+                            </a></li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="day24-2.html">
+                                Image
+                            </a></li>
+                        
+                    </ul>
+                </div>
+                
+            </nav>
+          <!-- place navbar here -->
+        </header>
+    
+        <main>
+        <div class="diloo">
+           <h1><a href="https://en.wikipedia.org/wiki/MS_Dhoni">MS Dhoni</a></h1>
+        </div>
+        <br>
+        <h1>About</h1>
+        <h6>Mahendra Singh Dhoni is an Indian professional cricketer who plays as a right-handed batter and a wicket-keeper.<a href="https://en.wikipedia.org/wiki/MS_Dhoni">Wikipedia</a></h6>
+        
+          <p><h5>Born:</h5>July 7, 1981 (age 43 years),<a href="https://www.google.com/search?sa=X&sca_esv=cd649ae873aa4223&sca_upv=1&sxsrf=ADLYWIKHAK_rAOHvuWhDv-V7Taz6zkMGjQ:1727429059286&q=Ranchi&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7GJOSdDtSsngMfNYjmWxJg2fxG18myZUxJxBHt73FOukGQkmOWpkM67CmTol93xP8oz2WAciHd-jhZ1uTtxKCH_Id62tY-DytdSrCSmrA3nOw4XTInC0unPKIGWtoSURl2C-GcUgolPR6yFQdwlTzLSzgFf&ved=2ahUKEwje8s_b5uKIAxVGzjgGHc4TO4IQmxMoAHoECB0QAg&biw=1280&bih=559&dpr=1.5">Ranchi</a></p>
+          <p>Dates joined: 2018 (Chennai Super Kings)
+          </p><hr>
+          <p></p>
+          <p>MS Dhoni: The Untold Story is an inspiring biographical sports film that delves into the life and journey of one of India's greatest cricketers, Mahendra Singh Dhoni. Directed by Neeraj Pandey, the film takes the audience on an emotional roller coaster ride through Dhoni's struggles, triumphs, and the untiring spirit that propelled him to become a cricketing legend.
+
+            Sushant Singh Rajput delivers a phenomenal performance in the lead role, effortlessly capturing Dhoni's mannerisms, body language, and charisma. From his humble beginnings as a ticket collector in Indian Railways to leading the Indian cricket team to unprecedented heights, Rajput's portrayal breathes life into the character, allowing the audience to connect with Dhoni's journey on a profound level.
+            
+            The film beautifully captures the essence of Dhoni's personal and professional life, providing glimpses into his relationships, dreams, and the challenges he faced along the way. The narrative strikes a perfect balance between showcasing Dhoni's cricketing genius and exploring the human side of the man behind the stumps. It highlights the importance of perseverance, hard work, and self-belief, inspiring viewers to chase their dreams against all odds.
+            
+            The screenplay is well-crafted, seamlessly blending Dhoni's cricketing triumphs with his personal struggles. The cricket sequences are meticulously choreographed, recreating some of the most memorable moments from Dhoni's career with great attention to detail. The film brilliantly captures the passion and frenzy of Indian cricket fans, portraying the deep emotional connection between Dhoni and his supporters.
+            
+            The supporting cast delivers commendable performances, with notable portrayals by Disha Patani as Dhoni's first love interest, Kiara Advani as his wife Sakshi, and Anupam Kher as his strict yet supportive father. Their performances add depth and emotional resonance to the narrative, elevating the overall impact of the film.
+            
+            While MS Dhoni: The Untold Story is a gripping cinematic experience, it does have some flaws. The film's runtime is lengthy, clocking in at around three hours, which may test the patience of some viewers. Additionally, certain aspects of Dhoni's life are glossed over, leaving the audience yearning for a more comprehensive exploration of certain events and relationships.
+            
+            Nevertheless, MS Dhoni: The Untold Story is a captivating tribute to one of the most revered figures in Indian cricket. It successfully portrays the indomitable spirit of Dhoni, reminding us of the power of determination, dedication, and resilience. Whether you are a cricket enthusiast or simply someone who appreciates compelling storytelling, this film is definitely worth a watch.</p>
+
+
+        </main>
+        <footer>
+            <!-- place footer here -->
+        </footer>
+        <!-- Bootstrap JavaScript Libraries -->
+        <script
+            src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+            integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+            crossorigin="anonymous"
+        ></script>
+
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+            integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+            crossorigin="anonymous"
+        ></script>
+    </body>
+</html>
